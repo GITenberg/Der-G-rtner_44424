@@ -1,0 +1,34 @@
+_repo: Der-G-rtner_44424
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Effenberger, Hans
+    gutenberg_agent_id: '39252'
+    url: http://www.gutenberg.org/2009/agents/39252
+covers:
+- cover_type: archival
+  image_path: 44424-h/images/cover_ebook.jpg
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44424'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into German'
+- !lcsh 'Bengali poetry -- Translations into German'
+- !lcsh 'Indic poetry -- Translations into German'
+- !lcc 'PK'
+title: Der Gärtner
+url: http://www.gutenberg.org/ebooks/44424
